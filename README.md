@@ -21,3 +21,10 @@ Commits
      Optional: Check changes with "git status"
 2. Commit all staged changes and add a message
    - "git commit -m message"
+
+Pull & Push
+
+1. When working with online repositories, make sure to update your local repository first
+   - "git pull"
+2. Once you are done with your changes, its time to push them to the online repository
+   - "git push" (will push current branch by default)
