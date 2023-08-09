@@ -16,7 +16,7 @@ Setup
 Commits
 
 1. Add your changes to the staging area
-   - "git add \* (all files)"
+   - "git add \*" (all files)
    - "git add filename"
      Optional: Check changes with "git status"
 2. Commit all staged changes and add a message
